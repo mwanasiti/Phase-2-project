@@ -2,134 +2,97 @@
     "users":[
         {
         "id": 1,
-        "name": "Leanne Graham",
-        "userID": "Bret",
-        "email": "Sincere@april.biz",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157"
-            }
-    
+        "name": "Leanne Kamau",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating": "",
+        "reason": ""
         },
 
         {
         "id": 2,
-        "name": "Ervin Howell",
-        "ID": "Antonette",
-        "email": "Shanna@melissa.tv",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157"
-            }
+        "name": "Ervin Omondi",
+        "identification": "",
+        "office":"",
+        "department": "",
+        "rating": "",
+        "reason":""
         },
         
         {
         "id": 3,
-        "name": "Clementine Bauch",
-        "userID": "Samantha",
-        "email": "Nathan@yesenia.net",
-        "Review": {
-        "Department ": "Douglas Extension",
-        "Time taken": "Suite 847",
-        "Rating": "McKenziehaven",
-        "Reason": "59590-4157"
-        }
+        "name": "Clementine Kiprop",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":""
         },
         
         {
         "id": 4,
-        "name": "Patricia Lebsack",
-        "username": "Karianne",
-        "email": "Julianne.OConner@kory.org",
-        "address": {
-        "street": "Hoeger Mall",
-        "suite": "Apt. 692",
-        "city": "South Elvis",
-        "zipcode": "53919-4257",
-        "geo": {
-        "lat": "29.4572",
-        "lng": "-164.2990"
-        }
-        },
-        "phone": "493-170-9623 x156",
-        "website": "kale.biz",
-        "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-        }
+        "name": "Patricia Nyambura",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":""
         },
 
 
         {
         "id": 5,
-        "name": "Chelsey Dietrich",
-        "username": "Kamren",
-        "email": "Lucio_Hettinger@annie.ca",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157"
-            }
-        
+        "name": "Chelsey Anette Wafula",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":""
         },
+
+
         {
         "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-        "email": "Karley_Dach@jasper.info",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157"
-            }
-        
+        "name": "Mrs. Dennis Letin",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":"" 
         },
+
+
         {
         "id": 7,
-        "name": "Kurtis Weissnat",
-        "username": "Elwyn.Skiles",
-        "email": "Telly.Hoeger@billy.biz",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157"
-            }
+        "name": "Ms. Amina Abdi",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":""
         },
 
 
         {
         "id": 8,
-        "name": "Nicholas Runolfsdottir V",
-        "username": "Maxime_Nienow",
-        "email": "Sherwood@rosamond.me",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157",
-            }
+        "name": "Nicholas Kimemia",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":""
         },
 
 
         {
         "id": 10,
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-        "email": "Rey.Padberg@karina.biz",
-        "Review": {
-            "Department ": "Douglas Extension",
-            "Time taken": "Suite 847",
-            "Rating": "McKenziehaven",
-            "Reason": "59590-4157",
-            }
+        "name": "Abdalla Msambani",
+        "identification": "",
+        "office":"",
+        "department":"",
+        "rating":"",
+        "reason":""
         }
         ]
 }
