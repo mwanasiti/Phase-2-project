@@ -1,98 +1,121 @@
 {
-    "users":[
-        {
-        "id": 1,
-        "name": "Leanne Kamau",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating": "",
-        "reason": ""
-        },
-
-        {
-        "id": 2,
-        "name": "Ervin Omondi",
-        "identification": "",
-        "office":"",
-        "department": "",
-        "rating": "",
-        "reason":""
-        },
-        
-        {
-        "id": 3,
-        "name": "Clementine Kiprop",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":""
-        },
-        
-        {
-        "id": 4,
-        "name": "Patricia Nyambura",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":""
-        },
-
-
-        {
-        "id": 5,
-        "name": "Chelsey Anette Wafula",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":""
-        },
-
-
-        {
-        "id": 6,
-        "name": "Mrs. Dennis Letin",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":"" 
-        },
-
-
-        {
-        "id": 7,
-        "name": "Ms. Amina Abdi",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":""
-        },
-
-
-        {
-        "id": 8,
-        "name": "Nicholas Kimemia",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":""
-        },
-
-
-        {
-        "id": 10,
-        "name": "Abdalla Msambani",
-        "identification": "",
-        "office":"",
-        "department":"",
-        "rating":"",
-        "reason":""
-        }
-        ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Kamau",
+      "identification": "40932010",
+      "office": "Huduma Center",
+      "department": "KRA",
+      "rating": "8",
+      "reason": "The staff were friendly, I was attended to very well"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Omondi",
+      "identification": "23945600",
+      "office": "Huduma Centre",
+      "department": "NSSF",
+      "rating": "2",
+      "reason": "I have been visiting the office for 3 days now to no success because the person in charge is supposedly sick the office has no substitute."
+    },
+    {
+      "id": 3,
+      "name": "Abdalla Msambani",
+      "identification": "37108923",
+      "office": "Kenya Power",
+      "department": "Management",
+      "rating": "7",
+      "reason": "I made an application for electricity connection and Kenya Power attended to this issue quite diligently, I was pleased by their services"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Nyambura",
+      "identification": "33173450",
+      "office": "Kenyatta Hospital",
+      "department": "Maternity",
+      "rating": "5",
+      "reason": "Poor Sanisation"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Anette Wafula",
+      "identification": "20976654",
+      "office": "Attorney General",
+      "department": "Marriage",
+      "rating": "6",
+      "reason": "Lack of proper organisation of service delivery"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Letin",
+      "identification": "35660891",
+      "office": "Ministry of Lands",
+      "department": "Registration board",
+      "rating": "4",
+      "reason": "Lack of official conduct"
+    },
+    {
+      "id": 7,
+      "name": "Ms. Amina Abdi",
+      "identification": "28904357",
+      "office": "Huduma centre",
+      "department": "National Construction Authority",
+      "rating": "2",
+      "reason": "I have made payment countless times but 3 months later i am yet to receive my building permit"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Kimemia",
+      "identification": "32456600",
+      "office": "Huduma Center",
+      "department": "Civil Registration Department",
+      "rating": "9",
+      "reason": "My family applied for a burial permit and within less than 24 hours we were able acquire it "
+    },
+    {
+      "id": 10,
+      "name": "Clementine Kiprop",
+      "identification": "12314480",
+      "office": "Huduma Centre",
+      "department": "NHIF",
+      "rating": "5",
+      "reason": "Lack of professionalism in service giving"
+    },
+    {
+      "name": "Adan Duale",
+      "identification": "11238899",
+      "department": "NSSF",
+      "rating": "4",
+      "reason": "Long time taken to receive service",
+      "office": "Huduma center",
+      "id": 11
+    },
+    {
+      "name": "Adan Duale",
+      "identification": "11238899",
+      "department": "NSSF",
+      "rating": "4",
+      "reason": "Long time taken to receive service",
+      "office": "Huduma center",
+      "id": 12
+    },
+    {
+      "name": "Wetangula Moses",
+      "identification": "35889016",
+      "department": "Marriages",
+      "rating": "4",
+      "reason": "The officiation was done very professionally",
+      "office": "Attorney General",
+      "id": 13
+    },
+    {
+      "name": "Dean Nyambura",
+      "identification": "32908755",
+      "department": "DCI",
+      "rating": "6",
+      "reason": "The process of renewing my good conduct certificate was overdelayed.",
+      "office": "Huduma center",
+      "id": 14
+    }
+  ]
 }
