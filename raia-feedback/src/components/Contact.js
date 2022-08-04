@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 function Contact() {
   return (
@@ -8,17 +9,17 @@ function Contact() {
           <p className="links">
               <div>
                   <p className="contactInfo">Phone number:</p>
-                  <a href="+254710112271" >+254710112271</a>
+                  <Link to="+254710112271" >+254710112271</Link>
               </div>
               <hr></hr>
                   <div>
                       <p className="contactInfo">Linkedin:</p>
-                      <a href="https://www.linkedin.com/in/mariam-ali-71246a179">https://www.linkedin.com/in/mariam-ali-71246a179</a>
+                      <Link to="https://www.linkedin.com/in/mariam-ali-71246a179">https://www.linkedin.com/in/mariam-ali-71246a179</Link>
                     </div>
                   <hr></hr>
               <div>
                   <p className="contactInfo">Email:</p>
-                  <a href="ali.mariam.mwanasiti@gmail.com">ali.mariam.mwanasiti@gmail.com</a>
+                  <Link to="ali.mariam.mwanasiti@gmail.com">ali.mariam.mwanasiti@gmail.com</Link>
                   </div>
  
           </p>

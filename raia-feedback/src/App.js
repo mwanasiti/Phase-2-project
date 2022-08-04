@@ -5,6 +5,7 @@ import './index.css'
 import {Routes, Route} from 'react-router-dom'
 import About from './components/About';
 import Contact from './components/Contact'
+import Navbar from './components/Navbar'
 
 
 const App = () => {
@@ -31,6 +32,7 @@ const App = () => {
   },[])
   return (
     <div className='App container'>
+      <Navbar/>
       <Header/>
       <Routes>
           <Route exact path='/' element={<Home handleData={handleData} users={users}/>}/>

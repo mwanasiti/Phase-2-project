@@ -24,6 +24,13 @@ function Form({handleData}) {
   const onSubmit=(e)=>{
     e.preventDefault();
     handleData(formData)
+    setFormData({
+      name:'',
+      identification:'',
+      department:'',
+      rating:'',
+      reason:'',
+    })
   }
 
   return (
